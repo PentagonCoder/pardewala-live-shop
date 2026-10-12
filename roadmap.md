@@ -1,0 +1,11 @@
+# Roadmap
+- [x] Confirm account/profile needs before implementing authentication.
+- [x] Set up Lovable Cloud and core commerce data model.
+- [x] Build live customer catalogue, KG pricing, curated related selection, and durable cart.
+- [x] Build customer checkout, saved addresses, and order tracking.
+- [x] Let guests build a local cart and require sign-in only at order placement.
+- [x] Send checkout email verification as a 6-digit code instead of an email link.
+- [x] Build protected admin management and live-order workspace.
+- [x] Add administrator password recovery from the separate admin sign-in page.
+- [ ] Configure video and payment integrations through server-side settings.
+- [ ] Test key customer and admin journeys (requires an authenticated customer and shop-admin account).
